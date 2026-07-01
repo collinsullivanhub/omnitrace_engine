@@ -69,3 +69,9 @@ This means the C extension has not been compiled yet. Run Step 2 to build it.
 
 ### Error: `PermissionError` or socket access forbidden
 This occurs when the command is run without administrative privileges. Make sure your shell was opened using **Run as Administrator** (Windows) or that you prefix the command with `sudo` (Linux/macOS).
+
+---
+
+## Console Screenshot
+
+![Console Output](Screenshot%20%282%29.png)
