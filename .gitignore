@@ -1,0 +1,19 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C compilation artifacts
+build/
+*.obj
+*.lib
+*.exp
+*.pdb
+*.ilk
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
